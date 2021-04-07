@@ -1,0 +1,28 @@
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+body
+{
+    color: white;
+    background: lightblue;
+}
+
+.name_of_people
+{
+    color: lightpink;
+}
+
+#camera
+{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+}
+
+#result_person_name, #result_person_accuracy
+{
+    color: black;
+}
